@@ -1,0 +1,28 @@
+Allgemein
+[x]Game Loop
+[x]Spiellevel Aufbau
+[x]Mauer
+[x]Mauer Texture
+[x]Pac-Man "Essen" Texture
+[x]Map layout
+[ ]"Spiel Gewonnen" Text nachdem man alle Punkte isst
+Pac-Man
+[x]Pac-Man
+[x]Pac-Man bewegt sich
+[x]Pac-Man Kolision mit Wänden
+[x]Pac-Man Einzelne Frames und Animation
+[x]Pac-Man Rotation
+[ ]Pac-Man Sound
+Geister
+[x]Geister
+[x]Geister bewegen sich
+[x]Geister bleiben am Anfang stehen
+[ ]Geister haben Angst nachdem Pac-Man Power Food isst
+[ ]Kolision mit Geister !! Priorität !!
+[ ]Pac-Man kann Geister essen mit Power Food
+[ ]Geister Texture wenn Sie angst haben (Blaue Geister)
+[ ]Geister Texture wenn Sie kurz davor sind nicht mehr Angst zu haben.
+Power Food
+[x]Power Food texturen (noch nicht Im Spiel)
+[ ]Pac-Man kann es essen
+[ ]Power Food Sound
